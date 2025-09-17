@@ -2,7 +2,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dlwjdals910&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dlwjdals910"
-  width="600"
-  height="300"
+  width="900"
+  height="450"
 />
 </a>
