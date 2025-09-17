@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&animation=twinkling&text=(～﹃～)~z%20%20Z)
+![header](https://capsule-render.vercel.app/api?type=Transparent&animation=twinkling&text=(～﹃～)~z%20%20Z&fontColor=000000)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dlwjdals910&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dlwjdals910"
